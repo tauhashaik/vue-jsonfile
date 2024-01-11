@@ -114,7 +114,7 @@
 
             {
                 "id": "1",
-                "Ecommimage": "https://i.postimg.cc/MpGmyGqT/Js-Ecommerce.png",
+                "image": "https://i.postimg.cc/MpGmyGqT/Js-Ecommerce.png",
                 "Project": "ECOMMERCE WEBSITE",
                 "Description":"This is my first website created",
                 "Githubbutton":"Github",
@@ -124,7 +124,7 @@
             },
             {
                 "id": "2",
-                "nfliximage": "https://i.postimg.cc/Pf7wrkgW/Netflix-Pic.png",
+                "image": "https://i.postimg.cc/Pf7wrkgW/Netflix-Pic.png",
                 "Project": "NETFLIX",
                 "Description":"This is a clone/copy of the Netflix website using HTML and CSS only",
                 "Githubbutton":"Github",
@@ -135,7 +135,7 @@
 
             {
                 "id": "3",
-                "Keyimage": "https://i.postimg.cc/rmFrzyyJ/Keyboard-Pic.png",
+                "image": "https://i.postimg.cc/rmFrzyyJ/Keyboard-Pic.png",
                 "Project": "KEYBOARD",
                 "Description":"keyboard created with HTML and CSS(no functionality).",
                 "Githubbutton":"Github",
@@ -145,7 +145,7 @@
             },
             {
                 "id": "4",
-                "Calcimage": "https://i.postimg.cc/Y9p1gfRQ/Calculator-Pic.png",
+                "image": "https://i.postimg.cc/Y9p1gfRQ/Calculator-Pic.png",
                 "Project": "CALCULATOR",
                 "Description":"Calculator created with HTML and CSS(no function).",
                 "Githubbutton":"Github",
@@ -155,7 +155,7 @@
             },
             {
                 "id": "5",
-                "mobicareimage": "https://i.postimg.cc/hjy7mFfq/Mobi-Care-Pic.png",
+                "image": "https://i.postimg.cc/hjy7mFfq/Mobi-Care-Pic.png",
                 "Project": "MOBICARE",
                 "Description":"Clone of Mobicare Website.",
                 "Githubbutton":"Github",
