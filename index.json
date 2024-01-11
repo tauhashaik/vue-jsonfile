@@ -118,7 +118,9 @@
                 "Project1": "ECOMMERCE WEBSITE",
                 "Description1":"This is my first website created",
                 "Githubbutton":"Github",
-                "NetlifyButton":"Netlify"
+                "NetlifyButton":"Netlify",
+                   "Githublink": "https://github.com/tauhashaik/ecommerceProj.git",
+                  "Netlifylink": "https://jolly-nasturtium-dad3bf.netlify.app"
             },
             {
                 "id": "2",
@@ -126,7 +128,9 @@
                 "Project2": "NETFLIX",
                 "Description2":"This is a clone/copy of the Netflix website using HTML and CSS only",
                 "Githubbutton":"Github",
-                "NetlifyButton":"Netlify"
+                "NetlifyButton":"Netlify",
+                   "Githublink": "https://github.com/tauhashaik/netflixProject.git",
+                  "Netlifylink": "https://extraordinary-jalebi-c3054b.netlify.app"
             },
 
             {
@@ -135,7 +139,9 @@
                 "Project3": "KEYBOARD",
                 "Description3":"keyboard created with HTML and CSS(no functionality).",
                 "Githubbutton":"Github",
-                "NetlifyButton":"Netlify"
+                "NetlifyButton":"Netlify",
+                  "Githublink": "https://github.com/tauhashaik/keyboard.git",
+                  "Netlifylink": "https://glittering-kitten-f62054.netlify.app"
             },
             {
                 "id": "4",
@@ -143,7 +149,9 @@
                 "Project4": "CALCULATOR",
                 "Description4":"Calculator created with HTML and CSS(no function).",
                 "Githubbutton":"Github",
-                "NetlifyButton":"Netlify"
+                "NetlifyButton":"Netlify",
+                  "Githublink": "https://github.com/tauhashaik/calculator.git",
+                  "Netlifylink": "https://splendorous-kringle-35525d.netlify.app"
             },
             {
                 "id": "5",
@@ -151,7 +159,9 @@
                 "Project5": "MOBICARE",
                 "Description5":"Clone of Mobicare Website.",
                 "Githubbutton":"Github",
-                "NetlifyButton":"Netlify"
+                "NetlifyButton":"Netlify",
+                  "Githublink": "https://github.com/tauhashaik/mobiCare.git",
+                  "Netlifylink": "https://elaborate-taffy-ee02c9.netlify.app"
             }
         ],
 
