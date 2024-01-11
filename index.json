@@ -42,12 +42,12 @@
         ],
 
          "Skills":[
-           {
-              "id": "7",
+         {
+              "id": 1,
                 
-              "image": "https://i.postimg.cc/sXJxmg0v/mysql-icon.png",
+              "image": "https://i.postimg.cc/8cYW28Sb/bootstrap-logo.png",
                 
-              "Heading": "MYSQL",
+              "Heading": "BOOTSTRAP",
 
               "Subheading": "(Intermediate)"
           },
@@ -88,15 +88,6 @@
               "Subheading": "(Intermediate)"
           },
           {
-              "id": "6",
-                
-              "image": "https://i.postimg.cc/LXShj1Dc/nodejs-icon.png",
-                
-              "Heading": "NODE.JS",
-
-              "Subheading": "(Intermediate)"
-          },
-          {
               "id": "7",
                 
               "image": "https://i.postimg.cc/sXJxmg0v/mysql-icon.png",
@@ -105,13 +96,12 @@
 
               "Subheading": "(Intermediate)"
           },
-               
-            {
-              "id": 1,
+          {
+              "id": "6",
                 
-              "image": "https://i.postimg.cc/8cYW28Sb/bootstrap-logo.png",
+              "image": "https://i.postimg.cc/LXShj1Dc/nodejs-icon.png",
                 
-              "Heading": "BOOTSTRAP",
+              "Heading": "NODE.JS",
 
               "Subheading": "(Intermediate)"
           }
