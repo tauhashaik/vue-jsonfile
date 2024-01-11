@@ -110,13 +110,13 @@
         "Projects":[
             {
                "id": "1",
-                "image": "https://i.postimg.cc/MpGmyGqT/Js-Ecommerce.png",
-                "Project": "ECOMMERCE WEBSITE",
-                "Description":"This is my first website created",
+                "image": "https://i.postimg.cc/rFsmmhmF/RGB-to-HEX.png",
+                "Project": "RGB to HEX",
+                "Description":"This is A simple RGB to HEX converter",
                 "Githubbutton":"Github",
                 "NetlifyButton":"Netlify",
-                   "Githublink": "https://github.com/tauhashaik/ecommerceProj.git",
-                  "Netlifylink": "https://jolly-nasturtium-dad3bf.netlify.app"
+                   "Githublink": "https://github.com/tauhashaik/rgbToHex.git",
+                  "Netlifylink": "https://dancing-malabi-738da6.netlify.app"
             },
 
             {
