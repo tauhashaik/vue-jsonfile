@@ -174,42 +174,39 @@
 
         "Testimonials":[
             {
-                "Heading": "Testimonials"
-            },
-            {
                 "id": "1",
-                "Ammaraimage": "https://i.postimg.cc/KYh7cygq/Ammara.png",
-                "Testimonial1": "Ammara Hoosen",
+                "image": "https://i.postimg.cc/KYh7cygq/Ammara.png",
+                "Testimonial": "Ammara Hoosen",
                 "Description": "Tauha Shaik is honestly a great person to have in the workplace. Throughout our collaboration, Tauha has demonstrated an unwavering commitment to excellence and a tireless work ethic. His keen eye for aesthetics and design is also visually appealing. I wholeheartedly recommend him."
             },
             {
                 "id": "2",
-                "Rajaimage": "https://i.postimg.cc/W3X07FYC/Rajah.png",
-                "Testimonial1": "Muhammad Rajah",
+                "image": "https://i.postimg.cc/W3X07FYC/Rajah.png",
+                "Testimonial": "Muhammad Rajah",
                 "Description": "He is excellent at developing close friendships with all his co-workers while displaying exceptional leadership skills, He tends to always remains calm no matter how stressful a situation may be. If I was to bet on his success,in a few years I would be rich."
             },
             {
                 "id": "3",
-                "Asiimage":"https://i.postimg.cc/T2tcVSZ1/Asithandile-PIC.png",
-                "Testimonial1": "Asithandile Tyulu",
+                "image":"https://i.postimg.cc/T2tcVSZ1/Asithandile-PIC.png",
+                "Testimonial": "Asithandile Tyulu",
                 "Description": "Tauha is a dedicated professional with a creative and analytical thinking skills that continually impresses. He approaches challenges with eagerness, consistently finding innovative solutions. What truly sets him apart is his remarkable resolve and exceptional emotional intelligence, making him an outstanding asset to any team."
             },
             {
                 "id": "4",
-                "Caelaimage": "https://i.postimg.cc/J4t5PxLq/Kayla.jpg",
-                "Testimonial1": "Caela Morgan Ward",
+                "image": "https://i.postimg.cc/J4t5PxLq/Kayla.jpg",
+                "Testimonial": "Caela Morgan Ward",
                 "Description": "Tauha Shaik is a creative and hardworking individual who is passionate about the work he shows. he strives to give his best for any task given to him. He is a kind soul who always tries his best to help those around with great leadership skills."
             },
             {
                 "id": "5",
-                "Haanimimage": "https://i.postimg.cc/Bv5TXwTq/Haanim.jpg",
-                "Testimonial1": "Haanim Pieterson",
+                "image": "https://i.postimg.cc/Bv5TXwTq/Haanim.jpg",
+                "Testimonial": "Haanim Pieterson",
                 "Description": "Tauha Shaik is an amazing person that just lights up the room he walks in. His character is admirable and work ethic is amazing. He is able to grasp things well from all perspectives. I would recommend Tauha if you want someone who can be a great friend as well as someone that can create and design websites well."
             },
             {
                 "id": "6",
-                "Joelimage": "https://i.postimg.cc/GtgJb8kG/joel2.jpg",
-                "Testimonial1": "Joel Mukhanya",
+                "image": "https://i.postimg.cc/GtgJb8kG/joel2.jpg",
+                "Testimonial": "Joel Mukhanya",
                 "Subheading": "Lecturer",
                 "Description": "Tauha is a creative, Hard-working, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub"
             }
