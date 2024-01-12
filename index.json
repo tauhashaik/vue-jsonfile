@@ -27,19 +27,50 @@
             }
         ],
 
-        "Resume":[
+        "Resume1":[
             {
-                "Profileimage":"https://i.postimg.cc/0yDmBHHp/20231103-221102-01.jpg",
-                  
-                "Heading": "Resume",
-
-                "Subheading1": "Sales(Street Fever)",
-
-                "Subheading2": "Electro Therapy and massaging",
-
-                "Subheading3": "Cafe Owner/Manager"
-            }
+                "Title":"Information"
+            },     
         ],
+      
+        "Resume2":[
+              {
+                    "Title": "Experiences",
+                    
+                     "Work": "Sales (Street Fever)",
+                    
+                     "Description": "Floor assistant and sales person",
+
+                     "Years": "2017-2018"
+              },
+              
+              {
+                     "Work": "Electro-Therapy and Massage",
+                    
+                     "Description": "Therapist and Masseur",
+
+                     "Years": "2017-2020"
+              },
+              {
+                     "Work": "Cafe Owner/Manager",
+                    
+                     "Description": "Managing the daily operations of the cafe as well as working in the kitchen.",
+
+                     "Years": "2020-2023"
+              }     
+        ],
+      
+        "Resume3":[
+                {
+                      "Title": "Education,
+                      
+                      "Education": "Matric",
+
+                      "Education2": "Suan Jian Ping Meridian and Accupuncture Therapy",
+                      
+                      "Education3": "Life Choices Academy"
+                }
+          ],
 
          "Skills":[
           {
