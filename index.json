@@ -184,7 +184,7 @@
                 "id": "4",
                 "image": "https://i.postimg.cc/Y9p1gfRQ/Calculator-Pic.png",
                 "Project": "CALCULATOR",
-                "Description":"Calculator created with HTML and CSS(no function).",
+                "Description":"Calculator created with HTML and CSS(functional).",
                 "Githubbutton":"Github",
                 "NetlifyButton":"Netlify",
                   "Githublink": "https://github.com/tauhashaik/calculator.git",
