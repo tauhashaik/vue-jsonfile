@@ -192,13 +192,13 @@
             },
             {
                 "id": "5",
-                "image": "https://i.postimg.cc/hjy7mFfq/Mobi-Care-Pic.png",
-                "Project": "MOBICARE",
-                "Description":"Clone of Mobicare Website.",
+                "image": "https://i.postimg.cc/KjgHp9mh/Screenshot-2024-01-12-124723.png",
+                "Project": "Interest Calculator",
+                "Description":"Calculator that calcuates Interest.",
                 "Githubbutton":"Github",
                 "NetlifyButton":"Netlify",
-                  "Githublink": "https://github.com/tauhashaik/mobiCare.git",
-                  "Netlifylink": "https://elaborate-taffy-ee02c9.netlify.app"
+                  "Githublink": "https://github.com/tauhashaik/interestAmount.gitt",
+                  "Netlifylink": "https://comforting-beijinho-e7cea1.netlify.app"
             }
         ],
 
