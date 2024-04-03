@@ -35,13 +35,20 @@
       
         "Resume2":[
               {
-                    "Title": "Experiences",
+                     "Title": "Experiences",
                     
-                     "Work": "Sales (Street Fever)",
+                     "Work": "Life Choices Studio",
                     
-                     "Description": "Floor assistant and sales person",
+                     "Description": "Intern as as software engineer",
 
-                     "Years": "2017-2018"
+                     "Years": "2024-Present"
+              },
+            {
+                     "Work": "Cafe Owner/Manager",
+                    
+                     "Description": "Managing the daily operations of the cafe as well as working in the kitchen.",
+
+                     "Years": "2020-2023"
               },
               {
                      "Work": "Electro-Therapy and Massage",
@@ -51,11 +58,11 @@
                      "Years": "2017-2020"
               },
               {
-                     "Work": "Cafe Owner/Manager",
+                     "Work": "Sales (Street Fever)",
                     
-                     "Description": "Managing the daily operations of the cafe as well as working in the kitchen.",
+                     "Description": "Floor assistant and sales person",
 
-                     "Years": "2020-2023"
+                     "Years": "2017-2018"
               }     
         ],
       
