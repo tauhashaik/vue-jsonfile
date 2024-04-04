@@ -168,13 +168,13 @@
             },
             {
                 "id": "2",
-                "image": "https://i.postimg.cc/Pf7wrkgW/Netflix-Pic.png",
-                "Project": "NETFLIX",
-                "Description":"This is a clone/copy of the Netflix website using HTML and CSS only",
+                "image": "https://i.ibb.co/x5NbTVJ/Capstone-Image.png",
+                "Project": "CAPSTONE",
+                "Description":"This is my capstone project in which i created an eccomerce website.",
                 "Githubbutton":"Github",
-                "NetlifyButton":"Netlify",
-                   "Githublink": "https://github.com/tauhashaik/netflixProject.git",
-                  "Netlifylink": "https://extraordinary-jalebi-c3054b.netlify.app"
+                "NetlifyButton":"Firebase",
+                   "Githublink": "https://github.com/tauhashaik/Capstone.git",
+                  "Netlifylink": "https://capstone-project-4153c.web.app/"
             },
 
             {
