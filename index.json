@@ -157,17 +157,7 @@
             },
 
             {
-                "id": "1",
-                "image": "https://i.postimg.cc/MpGmyGqT/Js-Ecommerce.png",
-                "Project": "ECOMMERCE WEBSITE",
-                "Description":"This is my first website created",
-                "Githubbutton":"Github",
-                "NetlifyButton":"Netlify",
-                   "Githublink": "https://github.com/tauhashaik/ecommerceProj.git",
-                  "Netlifylink": "https://jolly-nasturtium-dad3bf.netlify.app"
-            },
-            {
-                "id": "2",
+                "id": "3",
                 "image": "https://i.ibb.co/x5NbTVJ/Capstone-Image.png",
                 "Project": "CAPSTONE",
                 "Description":"This is my capstone project in which i created an eccomerce website.",
@@ -176,9 +166,19 @@
                    "Githublink": "https://github.com/tauhashaik/Capstone.git",
                   "Netlifylink": "https://capstone-project-4153c.web.app/"
             },
+            {
+                "id": "2",
+                "image": "https://i.postimg.cc/MpGmyGqT/Js-Ecommerce.png",
+                "Project": "ECOMMERCE WEBSITE",
+                "Description":"This is my first website created",
+                "Githubbutton":"Github",
+                "NetlifyButton":"Netlify",
+                   "Githublink": "https://github.com/tauhashaik/ecommerceProj.git",
+                  "Netlifylink": "https://jolly-nasturtium-dad3bf.netlify.app"
+            },
 
             {
-                "id": "3",
+                "id": "4",
                 "image": "https://i.postimg.cc/rmFrzyyJ/Keyboard-Pic.png",
                 "Project": "KEYBOARD",
                 "Description":"keyboard created with HTML and CSS(no functionality).",
@@ -188,7 +188,7 @@
                   "Netlifylink": "https://glittering-kitten-f62054.netlify.app"
             },
             {
-                "id": "4",
+                "id": "5",
                 "image": "https://i.postimg.cc/Y9p1gfRQ/Calculator-Pic.png",
                 "Project": "CALCULATOR",
                 "Description":"Calculator created with HTML and CSS(functional).",
@@ -198,7 +198,7 @@
                   "Netlifylink": "https://splendorous-kringle-35525d.netlify.app"
             },
             {
-                "id": "5",
+                "id": "6",
                 "image": "https://i.postimg.cc/KjgHp9mh/Screenshot-2024-01-12-124723.png",
                 "Project": "Interest Calculator",
                 "Description":"Calculator that calcuates Interest.",
