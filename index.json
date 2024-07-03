@@ -9,7 +9,7 @@
 
                    "Profileimage":"https://i.postimg.cc/0yDmBHHp/20231103-221102-01.jpg",
 
-                   "Subheading": "I am Tauha Hoosain Shaik, an aspiring Full Stack Developer",
+                   "Subheading": "I am Tauha Hoosain Shaik, an aspiring Web Developer",
 
                    "Projbutton":"My Projects",
 
@@ -23,7 +23,10 @@
 
                 "Subheading":"Who Am I?",
 
-                "Descriptions":"I am a hardworking individual that strives for constant improvement through diligence and the drive to learn. Patience and perseverence is a large part of my work ethic as well as the ability to self reflect to progress toward success. I am conscience of the importance in human relations and the need for emotional intellegence, which is why I pride myself on being well equipped to handle the communications aspect. This has given me the ability to navigate and facilitate working with groups of people and assume leadership roles when necessary."
+                "Descriptions":"Dynamic and results-oriented Individual with a passion for web development and a keen interest in coding diverse applications. Leveraging a strong background in pragmatic and analytical thinking, I meticulously assess details and information to craft effective solutions. With a commanding yet approachable presence, I excel in leadership by listening attentively, evaluating options, and delegating responsibilities to optimise team performance and achieve desired outcomes.
+
+Beyond the professional realm, I'm an avid sports enthusiast, particularly enjoying football and rugby, while finding solace and challenge in hiking adventures. Indoors, I indulge in gaming, cooking, and reading.
+While I maintain a friendly and jovial demeanor, I prioritise professionalism and excellence in my work, balancing a serious approach with a personable touch."
             }
         ],
 
@@ -141,6 +144,24 @@
               "Heading": "MYSQL",
 
               "Subheading": ""
+          },
+          {
+              "id": "8",
+                
+              "image": "https://i.postimg.cc/4yn10CW9/1200px-Word-Press-blue-logo-svg.png",
+
+              "Heading": "WORDPRESS",
+
+              "Subheading": ""
+          },
+          {
+              "id": "8",
+                
+              "image": "https://i.postimg.cc/cLSMwkp0/Python-Logo.jpg",
+
+              "Heading": "PYTHON",
+
+              "Subheading": ""
           }
       ],
 
@@ -180,12 +201,12 @@
             {
                 "id": "4",
                 "image": "https://i.postimg.cc/rmFrzyyJ/Keyboard-Pic.png",
-                "Project": "KEYBOARD",
-                "Description":"keyboard created with HTML and CSS(no functionality).",
+                "Project": "Weather API",
+                "Description":"Weather app created using Python",
                 "Githubbutton":"Github",
                 "NetlifyButton":"Netlify",
-                  "Githublink": "https://github.com/tauhashaik/keyboard.git",
-                  "Netlifylink": "https://glittering-kitten-f62054.netlify.app"
+                  "Githublink": "https://github.com/tauhashaik/Weather_App.git",
+                  "Netlifylink": "https://weatherappis.netlify.app"
             },
             {
                 "id": "5",
