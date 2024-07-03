@@ -165,7 +165,7 @@
         "Projects":[
             {
                 "id": "1",
-                "image": "https://i.postimg.cc/rmFrzyyJ/Keyboard-Pic.png",
+                "image": "https://i.postimg.cc/k5mYCysj/Screenshot-2024-07-03-125722.png",
                 "Project": "Weather API",
                 "Description":"Weather app created using Python",
                 "Githubbutton":"Github",
@@ -219,7 +219,7 @@
                 "id": "6",
                 "image": "https://i.postimg.cc/KjgHp9mh/Screenshot-2024-01-12-124723.png",
                 "Project": "Interest Calculator",
-                "Description":"Calculator that calcuates Interest.",
+                "Description":"Calcuates Interest.",
                 "Githubbutton":"Github",
                 "NetlifyButton":"Netlify",
                   "Githublink": "https://github.com/tauhashaik/interestAmount.gitt",
