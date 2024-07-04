@@ -169,9 +169,9 @@
                 "Project": "Weather API",
                 "Description":"Weather app created using Python",
                 "Githubbutton":"Github",
-                "NetlifyButton":"Netlify",
+                "NetlifyButton":"Vercel",
                   "Githublink": "https://github.com/tauhashaik/Weather_App.git",
-                  "Netlifylink": "https://weatherappis.netlify.app"
+                  "Netlifylink": "https://weather-app-azure-sigma.vercel.app/"
             },
 
             {
